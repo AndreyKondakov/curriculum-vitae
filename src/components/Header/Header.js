@@ -35,7 +35,7 @@ class Header extends Component {
               <li><Link to='/'>Home</Link></li>
               <li><Link to='/resume'>Resume</Link></li>
               <li><Link to='/skills'>Skills</Link></li>
-              {/*<li><Link to='/contact'>Contact me</Link></li>*/}
+              <li><Link to='/contacts'>Contact me</Link></li>
             </ul>
           </nav>
           <div id="header-nav-toggle" onClick={ this.handleClick }  >

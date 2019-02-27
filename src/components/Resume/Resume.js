@@ -6,9 +6,9 @@ class Resume extends Component {
 
   render() {
     return (
-      <main>
-        <p>Resume</p>
-      </main>
+      <section className="resume-section section" >
+        <p>1</p>
+      </section>
     );
   }
 }
