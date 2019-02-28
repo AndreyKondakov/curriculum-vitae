@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d797514-3afc-4379-b2b4-8fb3cebf8e99" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-    </list>
+    <list default="true" id="9d797514-3afc-4379-b2b4-8fb3cebf8e99" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -36,6 +33,7 @@
           <entry key="html" value="7" />
           <entry key="js" value="29" />
           <entry key="json" value="5" />
+          <entry key="lock" value="1" />
           <entry key="scss" value="26" />
         </counts>
       </usages-collector>
@@ -47,6 +45,7 @@
           <entry key="JavaScript" value="29" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SCSS" value="26" />
+          <entry key="yarn.lock" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -86,12 +85,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
-              <caret line="20" column="73" lean-forward="true" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
+              <caret line="20" column="73" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yarn.lock">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2904" />
           </provider>
         </entry>
       </file>
@@ -277,7 +283,7 @@
       <workItem from="1551194893904" duration="11018000" />
       <workItem from="1551252073379" duration="8072000" />
       <workItem from="1551276294958" duration="14774000" />
-      <workItem from="1551338100438" duration="13893000" />
+      <workItem from="1551338100438" duration="14255000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit">
       <created>1551091227405</created>
@@ -325,7 +331,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66211000" />
+    <option name="totallyTimeSpent" value="66573000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -340,7 +346,7 @@
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0722193" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0722193" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -552,8 +558,13 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="20" column="73" lean-forward="true" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
+          <caret line="20" column="73" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2904" />
       </provider>
     </entry>
   </component>
