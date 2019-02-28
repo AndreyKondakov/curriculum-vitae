@@ -19,9 +19,9 @@ if(process.env.NODE_ENV === 'production') {
 //build mode
 app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname+'/public/index.html'));
-})
+});
 
 //start server
 app.listen(port, (req, res) => {
   console.log( `server listening on port: ${port}`);
-})
+});
