@@ -10,7 +10,7 @@ class Resume extends Component {
         <div className='info'>
         <div className="about">
           <h3>ABOUT MYSELF:</h3>
-          <p>I am an engineer, have higher technical education. Now on
+          <p>My full name Andrey Kondakov. I am an engineer, have higher technical education. Now on
           the second year of postgraduate studies. I want to start a
           career in Front-end developer.</p>
           <p>Date of birth: December 14, 1993 (25 years)</p>
@@ -35,7 +35,7 @@ class Resume extends Component {
         </div>
         </div>
         <div>
-          <img src={portret} width="426px" height="640px" />
+          <img src={portret} alt='Myphoto' width="426px" height="640px" />
         </div>
       </section>
     );
