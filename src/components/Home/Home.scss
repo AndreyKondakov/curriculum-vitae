@@ -11,7 +11,6 @@
 
 // home (about me) section
 .about-me-section {
-  /*padding: 0 4%;*/
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -24,27 +23,13 @@
   flex-direction: column;
   justify-content: space-around;
   width: 45%;
-  height: 400px;
+  height: 420px;
   margin-top: 100px;
   letter-spacing: 1px;
-  //margin-left: 4%;
 }
-
-//.web {
-//  display: flex;
-//  flex-direction: column;
-//  justify-content: space-around;
-//  width: 45%;
-//  height: 60%;
-//  margin-top: 100px;
-//  letter-spacing: 1px;
-//}
-
-
 
 .smile {
   font-size: 50px;
-  //color: #fff;
   align-self: center;
 }
 
@@ -64,9 +49,4 @@
     width: 100%;
     margin: 5px 0;
   }
-  //.web .fa-smile-beam {
-  //  position: absolute;
-  //  bottom: 50px;
-  //  right: 50px;
-  //}
 }

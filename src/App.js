@@ -12,10 +12,10 @@ import Contacts from "./components/Contacts/Contacts";
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <>
         <Header/>
         <Main />
-      </div>
+      </>
     );
   }
 }
